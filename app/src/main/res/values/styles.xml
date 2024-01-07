@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Chỉnh sửa hoặc thêm style cho Button -->
+    <style name="MyButtonStyle" parent="Widget.AppCompat.Button">
+        <!-- Đặt các thuộc tính mong muốn cho Button -->
+        <item name="android:background">@drawable/temparature</item>
+        <item name="android:textSize">16sp</item>
+        <!-- Các thuộc tính khác nếu cần -->
+    </style>
+</resources>
